@@ -13,7 +13,8 @@ Muitos projetos paralelos falham por falta de priorização e cronogramas irreai
 3. **Rotina de Fim de Semana:** Blocos de disponibilidade real (Sábado e Domingo) respeitando o limite de 85% de capacidade.
 4. **Obstáculos & Planos B:** Mapeamento de riscos com gatilhos do tipo *"SE acontecer X, ENTÃO faço Y"*.
 
-*(Adicione aqui o print da estrutura do seu Planner: `![Estrutura do Planner](./images/planner.png)`)*
+*(Adicione aqui o print da estrutura do seu Planner: `<img width="802" height="707" alt="image" src="https://github.com/user-attachments/assets/4b478bfd-09b9-4b60-a56b-9415fb10d730" />
+`)*
 
 ## 🧠 Habilidades (Skills) Criadas
 1. **Clarificar-escopo-MVP:** Refina a ideia inicial e define critérios de sucesso.
