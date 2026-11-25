@@ -13,7 +13,13 @@ Muitos projetos paralelos falham por falta de priorização e cronogramas irreai
 3. **Rotina de Fim de Semana:** Blocos de disponibilidade real (Sábado e Domingo) respeitando o limite de 85% de capacidade.
 4. **Obstáculos & Planos B:** Mapeamento de riscos com gatilhos do tipo *"SE acontecer X, ENTÃO faço Y"*.
 
-*(Adicione aqui o print da estrutura do seu Planner: `<img width="802" height="707" alt="image" src="https://github.com/user-attachments/assets/4b478bfd-09b9-4b60-a56b-9415fb10d730" />
+<img width="802" height="707" alt="image" src="https://github.com/user-attachments/assets/4b478bfd-09b9-4b60-a56b-9415fb10d730" />
+<img width="1596" height="780" alt="image" src="https://github.com/user-attachments/assets/90922bfa-6553-40d4-8661-3586a555d138" />
+<img width="1051" height="539" alt="image" src="https://github.com/user-attachments/assets/83d75ba8-266b-4ff9-b242-8a86919d56d4" />
+<img width="625" height="311" alt="image" src="https://github.com/user-attachments/assets/ed1bedf6-a5bf-44f7-a353-5c18f8f98c10" />
+
+
+
 `)*
 
 ## 🧠 Habilidades (Skills) Criadas
@@ -26,4 +32,4 @@ Muitos projetos paralelos falham por falta de priorização e cronogramas irreai
 ## 🎯 Demonstração Prática (Estudo de Caso)
 Para validar o assistente, foi utilizado um cenário fictício: **Lucas, 26 anos, analista de sistemas**, com o objetivo de lançar o MVP de um micro-SaaS de agendamento em **8 semanas**, trabalhando apenas **7 horas por fim de semana** (4h no sábado e 3h no domingo) e com orçamento zero.
 
-*(Adicione aqui os prints das bases preenchidas e da IA em ação: `![Demonstração IA](./images/demonstracao.png)`)*
+<img width="769" height="744" alt="image" src="https://github.com/user-attachments/assets/a1637a7d-2518-406f-ad1d-8e46db74a9f6" />
